@@ -25,7 +25,3 @@ The app allows users to generate strong, random passwords based on selected crit
 - CSS
 
 ---
-
----
-
-## 📁 Project Structure
